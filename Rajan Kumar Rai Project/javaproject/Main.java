@@ -38,7 +38,6 @@ class Appointment {
     }
 }
 
-// Appointment Manager Class
 class AppointmentManager {
     Appointment[] appointments = new Appointment[100];
     int count = 0;
@@ -92,7 +91,6 @@ class AppointmentManager {
     }
 }
 
-// MAIN CLASS (IMPORTANT)
 public class Main{
 
     public static void main(String[] args) {
