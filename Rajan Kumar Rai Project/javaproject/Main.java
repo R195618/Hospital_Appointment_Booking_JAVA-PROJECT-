@@ -181,9 +181,8 @@ public class Main{
                     System.out.println("Invalid choice.");
             }
 
-        } while (choice != 4);
-
-        sc.close();
+        } 
+         while (choice != 4);
     }
 }
 
