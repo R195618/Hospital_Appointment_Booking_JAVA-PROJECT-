@@ -1,6 +1,5 @@
  import java.util.Scanner;
 
-// Doctor Class
 class Doctor {
     int doctorId;
     String name;
@@ -13,7 +12,6 @@ class Doctor {
     }
 }
 
-// Patient Class
 class Patient {
     int patientId;
     String name;
@@ -26,7 +24,6 @@ class Patient {
     }
 }
 
-// Appointment Class
 class Appointment {
     Doctor doctor;
     Patient patient;
